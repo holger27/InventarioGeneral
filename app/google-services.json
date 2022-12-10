@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5442441096",
+    "project_id": "inventariogeneral-78051",
+    "storage_bucket": "inventariogeneral-78051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5442441096:android:0cab686e7e23f1cb4db43d",
+        "android_client_info": {
+          "package_name": "com.edu.unab.inventariogeneral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5442441096-kdnidjqo2smv8d39jbono2vf7lbepiaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edu.unab.inventariogeneral",
+            "certificate_hash": "16e55a8de01ea076212be3b524074ca9870060ee"
+          }
+        },
+        {
+          "client_id": "5442441096-qb5dpdn2ee4v7e6422g3j2ldu70da55s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSH5WMp4a_v3xeBlyB1e2DGXyPTvSNzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5442441096-qb5dpdn2ee4v7e6422g3j2ldu70da55s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
